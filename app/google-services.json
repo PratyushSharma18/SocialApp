@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1085663656705",
+    "project_id": "social-app-fae4f",
+    "storage_bucket": "social-app-fae4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085663656705:android:1fb8209e83f6e59398b900",
+        "android_client_info": {
+          "package_name": "com.pratyushvkp.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085663656705-tn3fngblnk8cj9mgl0erluagscnshi5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratyushvkp.socialapp",
+            "certificate_hash": "72513a5c7fe9aa9b8fba961d6a5764c16ec0da85"
+          }
+        },
+        {
+          "client_id": "1085663656705-kgsbeidvq9f6vbnb3vfq4qgucq4ri5m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0gZvFxuqhqpNvftY3tipCKn_2SCFMSSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085663656705-gg7g9543in9on6e0l7t3rjnl5q4hn0k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
